@@ -1,4 +1,4 @@
-import { Movie } from './../typing.d';
+import { Movie } from '../typing';
 import { DocumentData } from 'firebase/firestore'
 import { atom } from 'recoil'
 
